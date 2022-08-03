@@ -1,0 +1,11 @@
+.click:hover{
+    background: royalblue;
+    transform: scale(1.5);
+    transition-duration: 0.5s;
+}
+
+.click:active{
+    background: green;
+    transform: scale(0.85);
+    transition-duration: 0.1s;
+}
